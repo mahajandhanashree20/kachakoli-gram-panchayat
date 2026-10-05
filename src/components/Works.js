@@ -18,10 +18,7 @@ function Works() {
       image: "/images/work5.png",
       title: "CCTV कॅमेरे",
     },
-    {
-      image: "/images/work6.png",
-      title: "हनुमान मंदिर",
-    },
+ 
 {
       image: "/images/work7.png",
       title: "वृक्ष लागवड",

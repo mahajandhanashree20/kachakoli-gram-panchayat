@@ -19,8 +19,8 @@ function Hero() {
       title: "सुंदर आणि स्वच्छ काचकोली",
     },
     {
-      image: "/images/hero5.jpeg",
-      title: "व्यायामशाळा",
+      image: "/images/work6.png",
+      title: "हनुमान मंदिर",
     },
   ];
 
